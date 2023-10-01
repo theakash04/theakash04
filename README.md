@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash kumar</h1>
 <h3 align="center">A Passionate developer from Bharat</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Demongodmax&label=Profile%20views&color=0e75b6&style=flat" alt="Demongodmax" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Akash-dex&label=Profile%20views&color=0e75b6&style=flat" alt="Akash-dex" /></p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=Demongodmax" alt="Demongodmax" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=Akash-dex" alt="Akash-dex" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/theakash04" target="_blank"><img src="https://img.shields.io/twitter/follow/theakash04" alt="theakash04" /></a> </p>
 
@@ -33,11 +33,11 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Demongodmax&show_icons=true&locale=en&layout=compact" alt="Demongodmax"</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash-dex&show_icons=true&locale=en&layout=compact" alt="Akash-dex"</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Demongodmax&show_icons=true&locale=en" alt="Demongodmax" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash-dex&show_icons=true&locale=en" alt="Akash-dex" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Demongodmax" alt="Demongodmax" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-dex" alt="Akash-dex" /></p>
 
 <h3 align="left">Random dev memes:</h3>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
