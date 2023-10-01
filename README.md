@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash-dex&show_icons=true&locale=en&layout=compact" alt="Akash-dex"</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash-dex&show_icons=true&locale=en" alt="Akash-dex" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash-dex&show_icons=true&locale=en" alt="Akash kumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-dex" alt="Akash-dex" /></p>
 
