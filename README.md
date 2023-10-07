@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on my **skills**
 - 🌱 Currently learning **web development**
-- 📧 How to reach me [Email](Aakashkkr04@gmail.com)
+- 📧 Reach me through **Aakashkkr04@gmail.com**
 - 🎓 Studying at [Birla Institute of Technology](https://www.bitmesra.ac.in/)
 - ⚡ Fun fact **I am a good reader**
 
