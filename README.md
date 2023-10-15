@@ -17,7 +17,7 @@
 <p align="left">
   <a href="https://www.youtube.com/@its_Dexedits" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCxuJRxCnibTrAbQt0qomfCQ?label=Youtube" alt="Dex"/>&nbsp;
   <a href="https://www.instagram.com/theakash04/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Theakash04"/>&nbsp;
-  <a href="https://akash-dex.github.io/akash.github.io" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-8826f0?style=flat" alt="Website"/>&nbsp;
+  <a href="https://akash-dex.github.io/dex_portfolio" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-8826f0?style=flat" alt="Website"/>&nbsp;
 </p>
 
   <h3 align="left">Language and Tools:</h3>
