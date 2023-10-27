@@ -14,10 +14,8 @@
 - ⚡ Fun fact **I am a good reader**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"">
-   <a  href="https://www.youtube.com/@its_Dexedits" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCxuJRxCnibTrAbQt0qomfCQ?label=Youtube" alt="Youtube"/>&nbsp;
-  <a href="https://www.instagram.com/theakash04/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>&nbsp; 
-  <a href="https://theakash04.github.io/dex" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-8826f0?style=flat" alt="Website"/>&nbsp;
+<p align="left">
+   <a href="https://theakash04.github.io/dex/"><img align='left' target= "_blank" src="https://img.shields.io/website?up_message=Go&up_color=green&down_message=Stop&down_color=red&url=https%3A%2F%2Ftheakash04.github.io%2Fdex%2F"alt="Website"/></a>
 </p>
 
   <h3 align="left">Language and Tools:</h3>
