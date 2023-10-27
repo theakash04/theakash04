@@ -13,12 +13,12 @@
 - 🎓 Studying at [Birla Institute of Technology](https://www.bitmesra.ac.in/)
 - ⚡ Fun fact **I am a good reader**
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a style="text-decoration: none;" href="https://www.youtube.com/@its_Dexedits" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCxuJRxCnibTrAbQt0qomfCQ?label=Youtube" alt="Youtube"/>&nbsp;
-  <a href="https://www.instagram.com/theakash04/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"style="text-decoration:none;"/>&nbsp; 
-  <a href="https://theakash04.github.io/dex" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-8826f0?style=flat" alt="Website"style="text-decoration:none;"/>&nbsp;
-</p> -->
+<h3 align="left">Connect with me:</h3>
+<p align="left"">
+   <a  href="https://www.youtube.com/@its_Dexedits" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCxuJRxCnibTrAbQt0qomfCQ?label=Youtube" alt="Youtube"/>&nbsp;
+  <a href="https://www.instagram.com/theakash04/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>&nbsp; 
+  <a href="https://theakash04.github.io/dex" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-8826f0?style=flat" alt="Website"/>&nbsp;
+</p>
 
   <h3 align="left">Language and Tools:</h3>
   <p align="left">
