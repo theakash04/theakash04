@@ -23,7 +23,7 @@
   <h3 align="left">Language and Tools:</h3>
   <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=aftereffects,bash,javascript,figma,html,css,python,c,linux,git,vim,cpp&theme=light"  />
+    <img src="https://skillicons.dev/icons?i=bash,javascript,figma,html,css,python,c,linux,git,vim,cpp,vscode&theme=light"  />
   </a>
 </p>
 
