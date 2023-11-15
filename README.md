@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/theakash04" target="_blank"><img src="https://img.shields.io/twitter/follow/theakash04" alt="Twitter" /></a> </p>
 
-- 🔭 I'm currently working on my `skills`
-- 🌱 Currently learning `web development`
+- 🔭 I'm currently working on my **skills**
+- 🌱 Currently learning **web development**
 - 📧 Reach me through `Aakashkkr04@gmail.com`
 - 🎓 Studying at [Birla Institute of Technology](https://www.bitmesra.ac.in/)
-- ⚡ Fun fact `I am a good reader`
+- ⚡ Fun fact **I am a good reader**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
