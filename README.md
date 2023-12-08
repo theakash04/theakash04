@@ -23,8 +23,8 @@
   <h3 align="left">Language and Tools:</h3>
   <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=bash,javascript,figma,html,css,python,c&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=linux,git,vim,cpp,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=bash,javascript,figma,html,css,python&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,linux,git,vim,cpp,vscode&theme=dark" />
   </a>
 </p>
 
