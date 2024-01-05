@@ -1,4 +1,7 @@
+<p align="center">
+
 ![Akash banner](/media/Hey%20There!%20I'm%20Akash%20Kumar!.png)
+</p>
 
 # 💫 About me:
 
