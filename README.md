@@ -1,39 +1,44 @@
-<h1 align="center">Hi 👋, I'm Akash kumar</h1>
-<h3 align="center">A Passionate developer from Bharat</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=theakash04&label=Profile%20views&color=0e75b6&style=flat" alt="Akash" /></p>
+<p align="center"><img src="media/Hey There! I&apos;m Akash Kumar!.png" alt="Akash banner" style ="height: 40%; width: 100%; padding-top: 20px;" /></p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=theakash04" alt="Trophy" /></a> </p>
+# 💫 About me:
 
-<p align="left"> <a href="https://twitter.com/theakash04" target="_blank"><img src="https://img.shields.io/twitter/follow/theakash04" alt="Twitter" /></a> </p>
+**🔭 I’m currently working on:** <br>
+Improving my skills in Web Development
 
-- 🔭 I'm currently working on my **skills**
-- 🌱 Currently learning **web development**
-- 📧 Reach me through `Aakashkkr04@gmail.com`
-- 🎓 Studying at [Birla Institute of Technology](https://www.bitmesra.ac.in/)
-- ⚡ Fun fact **I am a good reader**
+**📧 Reach me Through** | ```Aakashkkr04@gmail.com```
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a href="https://theakash04.github.io/dex/">
-      <img src="https://img.shields.io/website?up_message=Go&up_color=green&down_message=Stop&down_color=red&url=https%3A%2F%2Ftheakash04.github.io%2Fdex%2F" alt="Website" />
-   </a>
-</p> -->
+**💬 Ask me about:** ```HTML, CSS, Javasript, React...```
 
-  <h3 align="left">Language and Tools:</h3>
-  <p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=bash,javascript,figma,html,css,python&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=c,linux,git,vim,cpp,vscode&theme=dark" />
-  </a>
+**⚡ Fun fact** ```I am a good reader```
+
+
+<h3 align="left">💻 Tech Stack:</h3> <hr>
+
+<p align="left" style="padding:10px 0">
+   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Shell_Script-323330?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/language-1572B6?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theakash04&show_icons=true&locale=en&layout=compact" alt="Stats"</p>
+## 📊 Github stats: 
+<div align="left" style="display: flex; flex-direction: column; gap:5px; width:100%;">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theakash04&show_icons=true&locale=en" alt="Akash kumar" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theakash04&show_icons=true&locale=en&layout=compact&theme=dark" alt="Languages">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theakash04" alt="Streak" /></p>
 
-<h3 align="left">Random dev memes:</h3>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=theakash04&show_icons=true&locale=en&theme=dark" alt="Akash kumar" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theakash04&theme=dark" alt="Streak" />
+
+</div>
+
+<hr>
+
+![](https://komarev.com/ghpvc/?username=theakash04&color=6272A4&label=Viewers)
