@@ -1,16 +1,17 @@
-
-<p align="center"><img src="media/Hey There! I&apos;m Akash Kumar!.png" alt="Akash banner" style ="height: 40%; width: 100%; padding-top: 20px;" /></p>
+![Akash banner](/media/Hey%20There!%20I'm%20Akash%20Kumar!.png)
 
 # 💫 About me:
 
 **🔭 I’m currently working on:** <br>
 Improving my skills in Web Development
 
-**📧 Reach me Through** | ```Aakashkkr04@gmail.com```
+**💬 Ask me about:**  <br>
+HTML, CSS, Javasript, React and linux
 
 **💬 Ask me about:** ```HTML, CSS, Javasript, React...```
 
-**⚡ Fun fact** I am a good reader
+**⚡ Fun fact** <br>
+ ```I am a good reader```
 
 
 ## 💻 Tech Stack:
@@ -28,14 +29,10 @@ Improving my skills in Web Development
 
 
 ## 📊 Github stats: 
-<div align="left" style="display: flex; flex-direction: column; gap:5px; width:100%;">
 
 ![](https://github-readme-stats.vercel.app/api?username=theakash04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=theakash04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theakash04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
-
-<hr>
 
 ![](https://komarev.com/ghpvc/?username=theakash04&color=6272A4&label=Viewers)
