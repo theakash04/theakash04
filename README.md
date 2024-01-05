@@ -1,7 +1,4 @@
-<p align="center">
-
-![Akash banner](/media/Hey%20There!%20I'm%20Akash%20Kumar!.png)
-</p>
+<img align="center" style="width: 100%;" src="media/Hey There! I&apos;m Akash Kumar!.png">
 
 # 💫 About me:
 
