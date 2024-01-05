@@ -8,10 +8,6 @@ Improving my skills in Web Development
 **💬 Ask me about:**  <br>
 HTML, CSS, Javasript, React and linux
 
-**💬 Ask me about:** ```HTML, CSS, Javasript, React...```
-
-**⚡ Fun fact** <br>
- ```I am a good reader```
 
 
 ## 💻 Tech Stack:
