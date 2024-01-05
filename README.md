@@ -15,27 +15,24 @@ Improving my skills in Web Development
 
 ## 💻 Tech Stack:
 
-<p align="left" style="padding:10px 0">
-   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Shell_Script-323330?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/language-1572B6?style=for-the-badge&logo=c&logoColor=white" />
-</p>
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+  ![HTML](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![HTML](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![HTML](https://img.shields.io/badge/Shell_Script-323330?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![HTML](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![HTML](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![HTML](https://img.shields.io/badge/language-1572B6?style=for-the-badge&logo=c&logoColor=white)
+
+
 
 
 ## 📊 Github stats: 
 <div align="left" style="display: flex; flex-direction: column; gap:5px; width:100%;">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theakash04&show_icons=true&locale=en&layout=compact&theme=dark" alt="Languages">
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=theakash04&show_icons=true&locale=en&theme=dark" alt="Akash kumar" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theakash04&theme=dark" alt="Streak" />
+![](https://github-readme-stats.vercel.app/api?username=theakash04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=theakash04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theakash04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
