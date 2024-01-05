@@ -13,7 +13,7 @@ Improving my skills in Web Development
 **⚡ Fun fact** ```I am a good reader```
 
 
-<h3 align="left">💻 Tech Stack:</h3> <hr>
+## 💻 Tech Stack:
 
 <p align="left" style="padding:10px 0">
    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
