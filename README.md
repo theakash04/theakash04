@@ -10,7 +10,7 @@ Improving my skills in Web Development
 
 **💬 Ask me about:** ```HTML, CSS, Javasript, React...```
 
-**⚡ Fun fact** ```I am a good reader```
+**⚡ Fun fact** I am a good reader
 
 
 ## 💻 Tech Stack:
