@@ -21,6 +21,7 @@ HTML, CSS, Javasript, React and linux
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![C](https://img.shields.io/badge/language-1572B6?style=for-the-badge&logo=c&logoColor=white)
   ![Tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logoColor=white)
 
 
 
