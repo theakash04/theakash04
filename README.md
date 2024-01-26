@@ -6,7 +6,7 @@
 Improving my skills in Web Development
 
 **💬 Ask me about:**  <br>
-HTML, CSS, Javasript, React and linux
+Javasript and React 
 
 
 
@@ -18,6 +18,7 @@ HTML, CSS, Javasript, React and linux
   ![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 
