@@ -1,4 +1,5 @@
-<img align="center" style="width: 100%;" src="media/Hey There! I&apos;m Akash Kumar!.png">
+<br>
+<img align="center" style="width: 100%;" src="media/This is Akash.png">
 
 # 💫 About me:
 
@@ -8,6 +9,8 @@ Improving my skills in Web Development
 **💬 Ask me about:**  <br>
 Javasript and React 
 
+**📚 Fun Fact:**<br>
+I'm a good reader
 
 
 ## 💻 Tech Stack:
