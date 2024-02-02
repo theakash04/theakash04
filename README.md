@@ -1,6 +1,5 @@
 <br>
-<img align="center" style="width: 100%; border-radius: 5px" src="media/This is Akash.png">
-<br>
+<img align="center" style="width: 100%; border-radius: 10px" src="media/This is Akash.png">
 <br>
 
 # 💫 About me:
