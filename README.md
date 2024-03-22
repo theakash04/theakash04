@@ -11,7 +11,7 @@ Improving my skills in Web Development
 Javasript and React 
 
 **📚 Fun Fact:**<br>
-I'm a good reader
+I'm a good listener
 
 
 ## 💻 Tech Stack:
