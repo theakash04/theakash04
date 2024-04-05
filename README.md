@@ -24,6 +24,7 @@ I'm a good reader
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-660087?style=for-the-badge&logo=redux&logoColor=white)
+  ![Appwrite](https://img.shields.io/badge/Appwrite-ff007f?style=for-the-badge&logo=appwrite&logoColor=white)
 
 
 
