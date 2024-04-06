@@ -25,6 +25,7 @@ I'm a good listener
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-660087?style=for-the-badge&logo=redux&logoColor=white)
   ![Appwrite](https://img.shields.io/badge/Appwrite-ff007f?style=for-the-badge&logo=appwrite&logoColor=white)
+  ![Material UI](https://img.shields.io/badge/Material_UI-1034A6?style=for-the-badge&logo=mui&logoColor=white)
 
 
 
