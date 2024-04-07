@@ -8,7 +8,7 @@
 Improving my skills in Web Development
 
 **💬 Ask me about:**  <br>
-Javasript and React 
+Javascript and ReactJs
 
 **📚 Fun Fact:**<br>
 I'm a good listener
