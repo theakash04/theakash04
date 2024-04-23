@@ -37,4 +37,8 @@ I'm a good listener
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theakash04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![](https://komarev.com/ghpvc/?username=theakash04&color=6272A4&label=Viewers)
+<!-- ![](https://komarev.com/ghpvc/?username=theakash04&color=6272A4&label=Viewers) -->
+
+<p align="center">
+	<img src="https://profile-counter.glitch.me/theakash04/count.svg" />
+</p>
