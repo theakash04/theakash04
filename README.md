@@ -7,6 +7,16 @@
 **🔭 I’m currently working on:** <br>
 Improving my skills in Web Development
 
+<!-- ## 🤝 Follow along
+<div id="badges" style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/theakash04/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/THEAkash04">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div> -->
+
 ## 💻 Tech Stack:
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -26,13 +36,4 @@ Improving my skills in Web Development
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<!-- ## 📊 Github stats:
 
-![](https://github-readme-stats.vercel.app/api?username=theakash04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=theakash04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theakash04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<p align="center">
-	<img src="https://profile-counter.glitch.me/theakash04/count.svg" />
-</p> -->
