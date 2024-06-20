@@ -7,15 +7,6 @@
 **🔭 I’m currently working on:** <br>
 Improving my skills in Web Development
 
-<!-- ## 🤝 Follow along
-<div id="badges" style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/theakash04/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/THEAkash04">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div> -->
 
 ## 💻 Tech Stack:
 
@@ -27,13 +18,8 @@ Improving my skills in Web Development
 ![Appwrite](https://img.shields.io/badge/Appwrite-ff007f?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Material UI](https://img.shields.io/badge/Material_UI-1034A6?style=for-the-badge&logo=mui&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-
