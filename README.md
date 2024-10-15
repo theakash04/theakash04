@@ -24,3 +24,4 @@ Improving my skills in Web Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-6430FF?style=for-the-badge&logo=typescript&logoColor=white)
 ![NextJs](https://img.shields.io/badge/NextJs-020212?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-7EBF50?style=for-the-badge&logo=vim&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
